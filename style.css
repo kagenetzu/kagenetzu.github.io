@@ -1,0 +1,247 @@
+.main {
+    
+    color: black;
+    font-size: 30px;
+    background-color: orange;
+    text-decoration: none;
+    border: 1px solid black;
+    margin-left: 4px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 35px black;
+    
+    
+    
+}
+#test{
+    margin-top: 0px;
+}
+
+.apost{
+font-size: 30px;
+
+}
+#left{
+    margin-right: 21px;
+    position: fixed; /* Абсолютное позиционирование */
+    right: 0; /* Положение от правого края окна */
+    top: 100px; /* Положение от верхнего края */
+    width: 200px; 
+    font-size: 35px;
+    color: black;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 6%;
+    text-decoration: none;
+    padding: 2px;
+    
+    
+}
+#left1{
+    margin-right: 21px;
+    position: fixed; /* Абсолютное позиционирование */
+    right: 0; /* Положение от правого края окна */
+    top: 200px; /* Положение от верхнего края */
+    width: 200px; 
+    font-size: 35px;
+    color: black;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 6%;
+    text-decoration: none;
+    padding: 2px;
+     
+}
+#left:hover{
+    
+    -webkit-transform: rotateZ(20deg);
+    -ms-transform: rotateZ(20deg);
+    transform: rotateZ(20deg);
+
+
+
+}
+#left1:hover{
+    
+    -webkit-transform: rotateZ(20deg);
+    -ms-transform: rotateZ(20deg);
+    transform: rotateZ(20deg);
+
+
+
+}
+#left2{
+    margin-right: 21px;
+    position: fixed; /* Абсолютное позиционирование */
+    right: 0; /* Положение от правого края окна */
+    top: 300px; /* Положение от верхнего края */
+    width: 200px; 
+    font-size: 35px;
+    color: black;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 6%;
+    text-decoration: none;
+    padding: 2px;
+       
+}
+#left2:hover{
+    
+    -webkit-transform: rotateZ(20deg);
+    -ms-transform: rotateZ(20deg);
+    transform: rotateZ(20deg);
+
+
+
+}
+body{
+    background-color: silver ;
+}
+#osn{
+background-color: wheat;
+margin-right: 8%;
+border: 3px solid black;
+border-radius: 5px;
+margin-top: 30px;
+position: absolute;
+
+}
+.slova{
+    font-size: 20px;
+
+}
+.punkt{
+    margin-left: 55px;
+}
+.ssilk{
+    text-decoration: none;
+    font-size: 50px;
+    color: #000;
+   
+
+
+}
+#foto{
+    float: left; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+    margin-top: 20px;
+    position: absolute;
+}
+#o1{
+    position: fixed;
+}
+#o1:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#o2{
+    margin-left: 150px;
+    position: fixed;
+}
+#o2:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+#o3{
+    margin-left: 350px;
+    position: fixed;
+}
+#o3:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+#o4{
+    margin-left: 530px;
+    position: fixed;
+}
+#o4:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#osn1{
+    background-color: wheat;
+    margin-left: 18%;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-top: 30px;
+    position: absolute;
+    
+    }
+#mini{
+    margin-top: 30%;
+    background-color: wheat;
+
+    border: 3px solid black;
+    border-radius: 20px;
+    margin-right: 95%;
+    padding: 5px;
+    position: fixed;
+    
+}
+#o5{
+    margin-left: 715px;
+    position: fixed;
+}
+#o5:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#foto2{
+   /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 40%;
+}
+#foto3{
+    /* Выравнивание по правому краю */
+     margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+     margin-top: 20px;
+     position: absolute;
+     margin-left: 80%;
+ }
+ .niz{
+    background-color: orange;
+    margin-right: 0;
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 0%;
+    width: 100%;
+
+ }
+ 
+ #footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    width: 100%;
+    margin-top: 5px;
+    background-color: blanchedalmond;
+    opacity: 1;
+    text-align: center;
+    
+    
+
+
+
+
+ }
+ 
+
+
+    
+
+
+
+
+
+
